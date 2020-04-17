@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "citywalk",
   "main": "index.js",
+  "homepage": "https://changviv.github.io/citywalk/",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
     "devserver": "live-server",
